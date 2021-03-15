@@ -1,0 +1,15 @@
+* {
+    padding: 1%;
+    color: white;
+    font-family: monospace;
+    text-align: right;
+}
+.um {
+    background-image: linear-gradient(to right, #188FFF, #6D00F6);
+}
+.dois {
+    background-image: linear-gradient(to right, #F5F5F5 , #BA4DE3, #8A05BE, #530082, #191919);
+}
+.tres {
+    background-image: linear-gradient(to right, #00b9b3, #6b48ff);
+}
