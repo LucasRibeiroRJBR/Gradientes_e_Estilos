@@ -4,6 +4,9 @@
     font-family: monospace;
     text-align: right;
 }
+a {
+    color: black;
+}
 .um {
     background-image: linear-gradient(to right, #188FFF, #6D00F6);
 }
