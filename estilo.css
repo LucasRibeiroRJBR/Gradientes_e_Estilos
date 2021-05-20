@@ -7,6 +7,10 @@
 a {
     color: black;
 }
+.preto {
+    color: black;
+    text-align: left;
+}
 .um {
     background-image: linear-gradient(to right, #188FFF, #6D00F6);
 }
@@ -24,4 +28,7 @@ a {
 }
 .seis {
     background-image: linear-gradient(to right, #614385, #516395);
+}
+.sete {
+    background-image: linear-gradient(to right, #155799, #159957);
 }
